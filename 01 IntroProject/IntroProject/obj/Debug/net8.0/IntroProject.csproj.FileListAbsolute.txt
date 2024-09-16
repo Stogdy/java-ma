@@ -1,0 +1,14 @@
+C:\Users\stogd\Desktop\M1Prog_cs1-main\01 intro\01 IntroProject\IntroProject\obj\Debug\net8.0\IntroProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stogd\Desktop\M1Prog_cs1-main\01 intro\01 IntroProject\IntroProject\obj\Debug\net8.0\IntroProject.AssemblyInfoInputs.cache
+C:\Users\stogd\Desktop\M1Prog_cs1-main\01 intro\01 IntroProject\IntroProject\obj\Debug\net8.0\IntroProject.AssemblyInfo.cs
+C:\Users\stogd\Desktop\M1Prog_cs1-main\01 intro\01 IntroProject\IntroProject\obj\Debug\net8.0\IntroProject.csproj.CoreCompileInputs.cache
+C:\Users\stogd\Desktop\M1Prog_cs1-main\01 intro\01 IntroProject\IntroProject\bin\Debug\net8.0\IntroProject.exe
+C:\Users\stogd\Desktop\M1Prog_cs1-main\01 intro\01 IntroProject\IntroProject\bin\Debug\net8.0\IntroProject.deps.json
+C:\Users\stogd\Desktop\M1Prog_cs1-main\01 intro\01 IntroProject\IntroProject\bin\Debug\net8.0\IntroProject.runtimeconfig.json
+C:\Users\stogd\Desktop\M1Prog_cs1-main\01 intro\01 IntroProject\IntroProject\bin\Debug\net8.0\IntroProject.dll
+C:\Users\stogd\Desktop\M1Prog_cs1-main\01 intro\01 IntroProject\IntroProject\bin\Debug\net8.0\IntroProject.pdb
+C:\Users\stogd\Desktop\M1Prog_cs1-main\01 intro\01 IntroProject\IntroProject\obj\Debug\net8.0\IntroProject.dll
+C:\Users\stogd\Desktop\M1Prog_cs1-main\01 intro\01 IntroProject\IntroProject\obj\Debug\net8.0\refint\IntroProject.dll
+C:\Users\stogd\Desktop\M1Prog_cs1-main\01 intro\01 IntroProject\IntroProject\obj\Debug\net8.0\IntroProject.pdb
+C:\Users\stogd\Desktop\M1Prog_cs1-main\01 intro\01 IntroProject\IntroProject\obj\Debug\net8.0\IntroProject.genruntimeconfig.cache
+C:\Users\stogd\Desktop\M1Prog_cs1-main\01 intro\01 IntroProject\IntroProject\obj\Debug\net8.0\ref\IntroProject.dll
